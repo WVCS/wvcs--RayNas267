@@ -1,4 +1,18 @@
-<html>
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 100px;
+  
+}
+
+body {
+  background-color: deepskyblue;
+}
+
+div.p {
+  font-size: 35px;
+}
+
 <head>
 <style>
 ul {
@@ -37,17 +51,4 @@ li a:hover {
 </ul>
 
 
-h3 {
-  color: black;
-  text-align: center;
-  font-size: 100px;
-  
-}
 
-body {
-  background-color: deepskyblue;
-}
-
-div.p {
-  font-size: 35px;
-}
