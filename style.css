@@ -28,11 +28,6 @@ li a:hover {
 </style>
 </head>
 
-<ul>
-  <li><a class="active" href="index.html">Home</a></li>
-  <li><a href="apps.html">Apps</a></li>
-  <li><a href="designs.html">Designs</a></li>
-</ul>
 
 h3 {
   color: black;
@@ -46,6 +41,8 @@ body {
 }
 
 div.p {
+  color: black;
+  text-align: center;
   font-size: 35px;
 }
 
